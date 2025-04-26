@@ -254,4 +254,4 @@ db.attendance.aggregate([
   }
 ]);
 
-Output: [ { absent_and_not_submitted: 1 } ]
+Output: [ { absent_and_not_submitted: 1 }]
